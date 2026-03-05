@@ -24,7 +24,7 @@
 
                 Toast.makeText(
                     this,
-                    "¡Botón presionado!",
+                    "¡Hola, el botón ha sido presionado!",
                     Toast.LENGTH_SHORT
                 ).show()
             }

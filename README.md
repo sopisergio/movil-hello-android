@@ -1,9 +1,9 @@
 # Taller 1 - Hello Android
 
 ## Información del Estudiante
-- Nombre: Sergio Rodríguez
+- Nombre: Sergio Rodríguez _  Michael Alberto Romero Gonzalez _ Anderson Sanguino Suarez
 - Código: 1098820679
-- Fecha: 24/02/2026
+- Fecha: 06/03/2026
 
 ## Respuestas
 
