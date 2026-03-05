@@ -2,7 +2,7 @@
 
 ## Información del Estudiante
 - Nombre: Sergio Rodríguez _  Michael Alberto Romero Gonzalez _ Anderson Sanguino Suarez
-- Código: 1098820679
+- Código: 1098820679 _ 100487913 _1005538900
 - Fecha: 06/03/2026
 
 ## Respuestas
